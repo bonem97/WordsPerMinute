@@ -1,6 +1,7 @@
 import java.time.LocalTime;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.List;
 
 public class WPM {
     static String[] words = {"feather" , "novel" , "thermos" , "nation" , "thread" , "paragraph" , "path" , "wine" , 
